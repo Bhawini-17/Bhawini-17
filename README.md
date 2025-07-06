@@ -45,12 +45,14 @@ Software Development Enthusiast with a passion for learning and building. Explor
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhawini-17&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
 <img src="assets/floating-computer.gif" width="30" alt="💻" />
-
 <p align="center">
-  <img src="https://media.tenor.com/Mo8jMtL4y1sAAAAC/bubbles.gif"
-       width="600" alt="soapy bubbles floating" />
-A learner who loves turning coffee into code.
+  <span style="font-size: 2rem; animation: float 4s ease-in-out infinite;">💻</span>
+  <span style="font-size: 2rem; animation: float 3s ease-in-out infinite;">☕</span>
+  <span style="font-size: 2rem; animation: float 5s ease-in-out infinite;">✨</span>
+  <span style="font-size: 2rem; animation: float 4.5s ease-in-out infinite;">📱</span>
 </p>
+
+<p align="center"> A learner who loves turning coffee into code.</p>
   
 ## 🤝 Connect with me
 
