@@ -1,11 +1,10 @@
-## Hi there 👋
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Bhawini!" />
 </h1>
 
 <h3 align="center">Software Development Enthusiast | Always Learning</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=header"/>
 
 ## 🚀 About Me
 
@@ -56,24 +55,10 @@ Software Development Enthusiast with a passion for learning and building. Explor
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B35&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=footer"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bhawini-17/count.svg?"  />
 </div>
 
 
-<!--
-**Bhawini-17/Bhawini-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
