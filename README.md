@@ -4,7 +4,7 @@
 
 <h3 align="center">Software Development Enthusiast | Always Learning</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=120&section=header"/>
 
 ## 🚀 About Me
 
@@ -55,10 +55,9 @@ Software Development Enthusiast with a passion for learning and building. Explor
   </a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C757D&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=120&section=footer"/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Bhawini-17/count.svg?"  />
 </div>
-
 
