@@ -27,8 +27,13 @@ Software Development Enthusiast with a passion for learning and building. Explor
   <img src="https://skillicons.dev/icons?i=tableau" height="40" alt="tableau" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R" />
-  <img src="https://skillicons.dev/icons?i=meanstack" height="40" alt="MEAN Stack" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
 </div>
 
 ## 📊 GitHub Stats
@@ -40,9 +45,10 @@ Software Development Enthusiast with a passion for learning and building. Explor
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhawini-17&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Bhawini-17/Bhawini-17/output/snake.svg" alt="Snake animation" />
-</div>
+<img src="assets/floating-computer.gif" width="30" alt="💻" />
+
+I’m Bhawini, a frontend / full‑stack learner who loves turning coffee into code 
+<img src="assets/floating-computer.gif" width="25" alt="💻" /> and hackathon wins.
 
 ## 🤝 Connect with me
 
