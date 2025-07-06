@@ -24,7 +24,6 @@ Software Development Enthusiast with a passion for learning and building. Explor
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="next.js" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="40" alt="tableau" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=r" height="40" alt="R" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
@@ -47,9 +46,15 @@ Software Development Enthusiast with a passion for learning and building. Explor
 
 <img src="assets/floating-computer.gif" width="30" alt="💻" />
 
-I’m Bhawini, a frontend / full‑stack learner who loves turning coffee into code 
-<img src="assets/floating-computer.gif" width="25" alt="💻" /> and hackathon wins.
 
+<p align="center">
+  A learner who loves turning coffee into code.
+  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+</p>
 ## 🤝 Connect with me
 
 <div align="center">
