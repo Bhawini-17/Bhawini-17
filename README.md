@@ -46,15 +46,13 @@ Software Development Enthusiast with a passion for learning and building. Explor
 
 <img src="assets/floating-computer.gif" width="30" alt="💻" />
 
-
 <p align="center">
+  
   A learner who loves turning coffee into code.
-  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
-  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
-  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
-  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
-  <img src="https://media.giphy.com/media/l0MYzeWlsLSspg7Cw/giphy.gif" width="60" alt="Floating computer" />
+  <img src="assets/bubbles.svg" width="100%" alt="Animated floating bubbles" />
 </p>
+
+  
 ## 🤝 Connect with me
 
 <div align="center">
