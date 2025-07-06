@@ -47,11 +47,10 @@ Software Development Enthusiast with a passion for learning and building. Explor
 <img src="assets/floating-computer.gif" width="30" alt="💻" />
 
 <p align="center">
-  
-  A learner who loves turning coffee into code.
-  <img src="assets/bubbles.svg" width="100%" alt="Animated floating bubbles" />
+  <img src="https://media.tenor.com/Mo8jMtL4y1sAAAAC/bubbles.gif"
+       width="600" alt="soapy bubbles floating" />
+A learner who loves turning coffee into code.
 </p>
-
   
 ## 🤝 Connect with me
 
