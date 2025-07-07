@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=120&section=header"/>
 
-## 🚀 About Me
+## 👩🏻‍💻 About Me
 
 Software Development Enthusiast with a passion for learning and building. Exploring full-stack development through hands-on projects using JavaScript, Python, and modern web frameworks. I enjoy creating user-friendly interfaces, working with APIs, and visualizing data. Always curious about new technologies and excited to collaborate on innovative projects that challenge me to grow as a developer.
 
