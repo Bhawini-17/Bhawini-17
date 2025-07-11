@@ -66,7 +66,5 @@ Software Development Enthusiast with a passion for learning and building. Explor
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00B4DB&height=120&section=footer"/>
 
-<div align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
-</div>
+  ![Visitors](https://komarev.com/ghpvc/?username=Bhawini-17&color=blue&style=flat)
 
